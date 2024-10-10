@@ -42,7 +42,7 @@ The Power BI report includes various visualizations to make the insights accessi
  - Location vs. Inheritance: A visualization comparing how location influences disease inheritance patterns.
  - Age Group Distribution: A filter to analyze how the prevalence of diseases changes across different age groups.
 
-![Inheritance of Diseases report img](https://github.com/user-attachments/assets/34365e12-fdcb-48e0-bcf8-6b10d365ae78)
+![Inheritance of Diseases report img.png](https://github.com/Ramya-korupolu/Inheritance-of-Diseases/blob/main/Inheritance%20of%20Diseases%20report%20img.png)
 
 ## Key Insights
 1. **Disease Inheritance**: Diseases like Asthama and Cystic Fibrosis show higher inheritance rates compared to others.
